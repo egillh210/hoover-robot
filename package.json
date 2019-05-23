@@ -1,0 +1,17 @@
+{
+  "name": "hooverrobot",
+  "version": "1.0.0",
+  "description": "''",
+  "main": "main.js",
+  "scripts": {
+    "test": "sh testscript.sh"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Egill Hreinsson",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
